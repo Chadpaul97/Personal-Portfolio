@@ -1,0 +1,12 @@
+.nav{
+    background-color: wheat;
+}
+
+.inline{
+    display: block
+}
+
+#message{
+    height: 100px;
+    width: 200px;
+}
